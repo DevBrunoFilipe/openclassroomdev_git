@@ -19,12 +19,6 @@
                     <a class="page-scroll" href="/auth/dashboard">dashboard</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="/auth/forums">forums</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="/auth/events">events</a>
-                </li>
-                <li>
                     <a class="page-scroll" href="/auth/user">profile</a>
                 </li>
                 <li>
